@@ -13,3 +13,11 @@
 
 - Authorization
 - bearer [copy the access_token=]
+- An example is given below.
+
+GET
+http://localhost:8080/zara-auth/test/test/11
+
+Authorization
+
+bearer 8f0e4006-2e8d-424e-8de0-5e4e3008f17c
